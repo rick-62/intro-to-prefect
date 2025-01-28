@@ -6,9 +6,9 @@ authors = [
     { name = "Bryan \"Beege\" Berry", email = "beege@codeseoul.org" }
 ]
 dependencies = [
-    "prefect ~= 2.13.2",
-    "httpx ~= 0.25.0",
-    "psycopg2-binary ~= 2.9.7"
+    "prefect",
+    "httpx",
+    "psycopg2-binary"
 ]
 
 [project.optional-dependencies]

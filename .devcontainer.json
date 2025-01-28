@@ -1,0 +1,11 @@
+{
+    "image":"mcr.microsoft.com/devcontainers/python:3",
+
+    "features": {
+      "ghcr.io/devcontainers/features/rust:1": {},
+      "docker-in-docker": {
+        "version": "latest"
+      }
+    }
+  
+}
